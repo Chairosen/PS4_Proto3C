@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Duncan_Chenot/PS4_Proto3C/Proto3C/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"D:/Duncan_Chenot/PS4_Proto3C/Proto3C/Content/Blueprint/BP_Machine.uasset",
+				"D:/Duncan_Chenot/PS4_Proto3C/Proto3C/Content/Blueprint/BP_FL_access.uasset",
+				"D:/Duncan_Chenot/PS4_Proto3C/Proto3C/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/EM/D8N83QUU5A1U3FWO535ML1.uasset",
+				"D:/Duncan_Chenot/PS4_Proto3C/Proto3C/Content/Blueprint/BP_Interactable.uasset",
+				"D:/Duncan_Chenot/PS4_Proto3C/Proto3C/Content/Blueprint/BP_Interactable_Child.uasset",
+				"D:/Duncan_Chenot/PS4_Proto3C/Proto3C/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/W8/4IJL1HWE6MOFJS09XVIT59.uasset",
+				"D:/Duncan_Chenot/PS4_Proto3C/Proto3C/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/LA/QORCNSK00FUZQCSWJJEP0K.uasset",
+				"D:/Duncan_Chenot/PS4_Proto3C/Proto3C/Content/Input/IMC_Default.uasset",
 				"D:/DC/PS4_Proto3C/Proto3C/Content/Blueprint/BP_Machine.uasset",
 				"D:/CHENOT Duncan/PS4_Proto3C/Proto3C/Content/UI/WBP_UI.uasset",
 				"D:/CHENOT Duncan/PS4_Proto3C/Proto3C/Content/Blueprint/BP_Machine.uasset"
